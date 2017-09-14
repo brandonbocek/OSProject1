@@ -1,0 +1,26 @@
+commit f899e31eb6bf555663767ddd1d548870325c9057
+Author: Brandon Bocek <o2-bocek@hoare7.cs.umsl.edu>
+Date:   Mon Sep 11 15:11:40 2017 -0500
+
+    third commit
+
+commit 58accf075184b604f05822e807979ed4dc048c5f
+Merge: b1137e2 fba4ef6
+Author: Brandon Bocek <o2-bocek@hoare7.cs.umsl.edu>
+Date:   Mon Sep 11 14:56:05 2017 -0500
+
+    'pulling the master branch'
+    Merge branch 'master' of https://github.com/brandonbocek/OSProject1
+
+commit b1137e23b0f6e56ecc7c485e7bd336e9ca71f330
+Author: Brandon Bocek <o2-bocek@hoare7.cs.umsl.edu>
+Date:   Mon Sep 11 14:52:30 2017 -0500
+
+    second commit
+
+commit fba4ef67f4dce6da251e72824a1e598acc5e739a
+Author: Brandon Bocek <o2-bocek@hoare7.cs.umsl.edu>
+Date:   Mon Sep 11 14:49:14 2017 -0500
+
+    first commit
+

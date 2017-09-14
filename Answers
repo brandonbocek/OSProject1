@@ -1,0 +1,38 @@
+1. The process ID is always 1 less than the child ID.
+ The parent ID for each process ID is equal to 1 for
+ every 2 to 4 processes for lower numbers.
+
+2. (1 -> 10307)
+    |
+    V
+   (2 -> 10308)
+    |
+    V
+   (3 -> 10309)
+    |
+    V
+   (4 -> 10310)
+
+3. There doesn't seem to be a single number that is
+ the largest number of processes that the program
+ can create. If I run 50000 processes sometimes it
+ will run them all and other times it will quit
+ after only a few thousand processes. The larger the
+ number I enter in the command line, the more likely
+ the processes won't finish and the program stops sooner.
+
+4. The maximum number of processes generated is 28.
+
+5. The program doesn't output any process ID's.
+
+6. The process ID's are outputted in reverse order.
+
+7. The first 2-4 processes are displayed before the bash 
+prompts me again. The rest are displayed after the next prompt.
+Most of the time the parent ID is 1, but sometimes it is 1 less
+than the process ID. The child ID is always 1 more than the
+process ID.
+
+8. The program prompts me to enter my first character by the 
+number that I entered as the command line argument. Then I
+have to control-shift to exit.

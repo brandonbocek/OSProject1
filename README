@@ -1,0 +1,28 @@
+1. The project is Excerice 3.8 from the book. It can be found at this repository on github
+
+https://github.com/brandonbocek/OSProject1.git
+
+2. type "make all" into the command line to compile all 8 of the steps
+many of the first few steps are the same though because there weren't
+any changes needed to be made
+
+3. call a step by typing "./run# #"
+For example to run part 1 for 10 processes 
+you would type "./run1 10"
+
+Here is the format running each executable
+
+	./run1 #ofProcesses
+	./run2 #ofProcesses
+	./run3 #ofProcesses
+	./run4 #ofProcesses
+	./run5 #ofProcesses #howManyLoops #howManySleepMs
+	./run6 #ofProcesses
+	./run7 #ofProcesses
+	./run8 #ofProcesses #ofCharsToReadIn
+
+4. To call the getopts part and to see the
+error messages type -(char) for example "./run 20 -a"
+
+5. To remove all of the executables from the make all
+type "make clean"
